@@ -1,13 +1,13 @@
 # ChatGPT 中文版 ：国内最简单的ChatGPT教程指南（支持GPT-4/4o，无需翻墙）【2025年最新更新】
 
-> **更新时间：2025/06/07**  
+> **更新时间：2025/06/11**  
 
 本指南为您提供全方位的 **ChatGPT 中文版** 使用教程，涵盖国内可用的镜像网站推荐、注册与使用说明，以及GPT-4相关应用。无需翻墙，即可快速上手！
 
 此外，我们整理了国内优质的 **ChatGPT镜像网站** 和 **官网注册教程**，无论是日常沟通还是工作需求，ChatGPT 中文版都能满足您的需要。
 
 优质推荐站点入口：  
-- **蓝鲸AI**：[https://chat.lanjing.pro](https://chat.lanjing.pro)  
+- **蓝鲸AI**：[https://chat.lanjingai.org](https://chat.lanjingai.org)  
 - **极简AI**：[https://xsimplechat.com](https://xsimplechat.com)  
 
 ---
@@ -27,7 +27,7 @@
 
 ## 什么是 ChatGPT 中文版？
 
-[**ChatGPT 中文版**](https://chat.lanjing.pro) 是基于 OpenAI 开发的 ChatGPT 模型专为中文用户优化的使用版本，通过国内镜像实现，完全无需翻墙即可访问。它在中文理解和本地化服务方面表现更佳，提供便捷、高效的用户体验。
+[**ChatGPT 中文版**](https://chat.lanjingai.org) 是基于 OpenAI 开发的 ChatGPT 模型专为中文用户优化的使用版本，通过国内镜像实现，完全无需翻墙即可访问。它在中文理解和本地化服务方面表现更佳，提供便捷、高效的用户体验。
 
 相较于 OpenAI 官网服务，**ChatGPT 中文版**在以下领域具有显著优势：  
 
@@ -43,7 +43,7 @@
 
 | **镜像站点**          | **支持版本**      | **免费额度** | **注册方式**       | **稳定性** | **功能亮点**                                |
 |-----------------------|------------------|--------------|-------------------|------------|--------------------------------------------|
-| **蓝鲸AI** [https://chat.lanjing.pro](https://chat.lanjing.pro)     | GPT-4、4o、o1、o3及 Claude、Gemini | 部分支持      | 邮箱注册       | ⭐⭐⭐⭐⭐    | 支持大量扩展功能，翻译、写作能力出色          |
+| **蓝鲸AI** [https://chat.lanjingai.org](https://chat.lanjingai.org)     | GPT-4、4o、o1、o3及 Claude、Gemini | 部分支持      | 邮箱注册       | ⭐⭐⭐⭐⭐    | 支持大量扩展功能，翻译、写作能力出色          |
 | **极简AI** [https://xsimplechat.com](https://xsimplechat.com)       | GPT-4、4o、o1、o3及 Claude、Gemini | 有免费额度    | 邮箱注册       | ⭐⭐⭐⭐⭐    | 操作极简、稳定性强，适合日常办公与学习          |
 | **一下AI** [https://chat.yixiaai.com](https://chat.yixiaai.com)     | GPT-3.5          | 部分支持      | 国内邮箱注册       | ⭐⭐⭐⭐      | 功能直观，适合入门级用户                     |
 | **AI工具站** [https://yixiaai.cn](https://yixiaai.cn)               | GPT-4 / GPT-3.5  | 限时免费      | 国内邮箱注册       | ⭐⭐⭐⭐⭐    | 支持各种AI工具，灵活性高            |
@@ -87,7 +87,7 @@ ChatGPT中文版内置多场景中文支持，无论是日常对话、文案创�
 ## 如何快速开始使用 ChatGPT 中文版
 
 ### 方法一：通过国内镜像体验  
-1. 选择国内推荐站点（如 [蓝鲸AI](https://chat.lanjing.pro) 或 [极简AI](https://xsimplechat.com)）。  
+1. 选择国内推荐站点（如 [蓝鲸AI](https://chat.lanjingai.org) 或 [极简AI](https://xsimplechat.com)）。  
 2. 注册账号：填写国内邮箱或手机号快速注册。  
 3. 登录后选择GPT模型（GPT-4或GPT-3.5）。  
 4. 立即开始体验，畅享高效智能中文互动！  
